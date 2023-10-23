@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadAlashtari
 - 👀 I’m interested in Web3 Global
-- 🌱 I’m currently learning Web3 and web2
+- 🌱 I’m currently learning Web3 and web
 - 💞️ I’m looking to collaborate on Crypto
 - 📫 How to reach me in mail or
 
